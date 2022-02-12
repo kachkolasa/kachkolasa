@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thezubairbaloch
+- 👋 Hi, I’m Kachkol Asa a.k.a Zubair Baloch
 - 👀 I’m interested in challenging projects.
 - 🌱 I’m currently learning advanced python and machine learning.
 - 💞️ I’m looking to collaborate on any project related web development.
