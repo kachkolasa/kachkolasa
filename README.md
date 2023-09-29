@@ -5,8 +5,4 @@
 - 📫 How to reach me ask@kachkolasa.com
 - ❤️ Checkout my portfolio: kachkolasa.com
 - Blog: https://developerwings.com
-
-<!---
-thezubairbaloch/thezubairbaloch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Trying to help developers: https://skillsnip.com
