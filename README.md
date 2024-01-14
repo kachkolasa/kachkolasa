@@ -6,5 +6,6 @@
 - ❤️ Checkout my portfolio: kachkolasa.com
 - Blog: https://developerwings.com
 - Trying to help developers: https://skillsnip.com
-- Freelancing on Fiverr since 2019: https://www.fiverr.com/developerzubair
+- Freelancing locally since 2019
+- Freelancing on Fiverr since 2020: https://www.fiverr.com/developerzubair
 - Freelancing on Upwork since 2023: https://www.upwork.com/freelancers/~015c5efc6f94a04f06
