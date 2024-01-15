@@ -1,5 +1,3 @@
-Stats from 14th Jan 2024
-[![Kachkol Asa (Zubair) profile views](https://u8views.com/api/v1/github/profiles/72012513/views/day-week-month-total-count.svg)](https://u8views.com/github/kachkolasa)
 - 👋 Hi, I’m Kachkol Asa a.k.a Zubair Baloch
 - 👀 I’m interested in challenging projects.
 - 🌱 I’m currently learning advanced python and machine learning.
