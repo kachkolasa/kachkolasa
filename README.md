@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/018d0628-512d-43e5-a571-1be5745373de.svg)](https://wakatime.com/@018d0628-512d-43e5-a571-1be5745373de)
+
 - 👋 Hi, I’m Kachkol Asa a.k.a Zubair Baloch
 - 👀 I’m interested in challenging projects.
 - 🌱 I’m currently learning advanced python and machine learning.
