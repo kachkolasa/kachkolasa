@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning advanced python and machine learning.
 - 💞️ I’m looking to collaborate on any project related web development.
 - 📫 How to reach me ask@kachkolasa.com
-- ❤️ Checkout my portfolio: kachkolasa.com
+- ❤️ Checkout my portfolio: https://kachkolasa.com
 - Blog: https://developerwings.com
 - Trying to help developers: https://skillsnip.com
 - Freelancing locally since 2019
