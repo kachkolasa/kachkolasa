@@ -6,7 +6,8 @@
 - 💞️ I’m looking to collaborate on any project related web development.
 - 📫 How to reach me ask@kachkolasa.com
 - ❤️ Checkout my portfolio: https://kachkolasa.com
-- Blog: https://developerwings.com
+- General Blog: https://developerwings.com
+- Laravel Blog: https://laraveleco.com/
 - Trying to help developers: https://skillsnip.com
 - Freelancing locally since 2019
 - Freelancing on Fiverr since 2020: https://www.fiverr.com/developerzubair
